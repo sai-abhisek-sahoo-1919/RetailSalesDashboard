@@ -1,0 +1,97 @@
+Region,Category,Year,Quarter,Target_Sales
+North,Technology,2023,Q1,476368.02
+North,Technology,2023,Q2,686525.98
+North,Technology,2023,Q3,884299.6
+North,Technology,2023,Q4,719002.51
+North,Technology,2024,Q1,824699.34
+North,Technology,2024,Q2,318106.25
+North,Technology,2024,Q3,454597.0
+North,Technology,2024,Q4,339360.47
+North,Furniture,2023,Q1,340184.45
+North,Furniture,2023,Q2,790820.65
+North,Furniture,2023,Q3,483002.32
+North,Furniture,2023,Q4,363008.75
+North,Furniture,2024,Q1,497292.94
+North,Furniture,2024,Q2,549377.08
+North,Furniture,2024,Q3,735371.91
+North,Furniture,2024,Q4,736180.51
+North,Office Supplies,2023,Q1,615554.98
+North,Office Supplies,2023,Q2,729412.06
+North,Office Supplies,2023,Q3,760688.96
+North,Office Supplies,2023,Q4,860257.54
+North,Office Supplies,2024,Q1,449268.11
+North,Office Supplies,2024,Q2,666673.91
+North,Office Supplies,2024,Q3,865097.17
+North,Office Supplies,2024,Q4,891266.24
+South,Technology,2023,Q1,557990.16
+South,Technology,2023,Q2,303161.87
+South,Technology,2023,Q3,518244.32
+South,Technology,2023,Q4,285533.04
+South,Technology,2024,Q1,542538.97
+South,Technology,2024,Q2,361575.26
+South,Technology,2024,Q3,859682.1
+South,Technology,2024,Q4,220806.46
+South,Furniture,2023,Q1,716458.85
+South,Furniture,2023,Q2,781218.73
+South,Furniture,2023,Q3,548694.44
+South,Furniture,2023,Q4,218724.22
+South,Furniture,2024,Q1,325366.98
+South,Furniture,2024,Q2,623208.75
+South,Furniture,2024,Q3,428869.12
+South,Furniture,2024,Q4,411926.83
+South,Office Supplies,2023,Q1,636262.83
+South,Office Supplies,2023,Q2,732120.01
+South,Office Supplies,2023,Q3,662756.42
+South,Office Supplies,2023,Q4,563964.24
+South,Office Supplies,2024,Q1,544531.26
+South,Office Supplies,2024,Q2,526215.28
+South,Office Supplies,2024,Q3,405494.05
+South,Office Supplies,2024,Q4,548529.33
+East,Technology,2023,Q1,553356.33
+East,Technology,2023,Q2,579706.68
+East,Technology,2023,Q3,766637.12
+East,Technology,2023,Q4,578370.29
+East,Technology,2024,Q1,212369.27
+East,Technology,2024,Q2,734775.43
+East,Technology,2024,Q3,893498.1
+East,Technology,2024,Q4,816087.97
+East,Furniture,2023,Q1,283393.88
+East,Furniture,2023,Q2,515080.86
+East,Furniture,2023,Q3,797012.0
+East,Furniture,2023,Q4,509789.3
+East,Furniture,2024,Q1,225186.78
+East,Furniture,2024,Q2,323808.42
+East,Furniture,2024,Q3,661587.72
+East,Furniture,2024,Q4,745567.73
+East,Office Supplies,2023,Q1,819290.16
+East,Office Supplies,2023,Q2,314900.97
+East,Office Supplies,2023,Q3,501476.78
+East,Office Supplies,2023,Q4,418721.77
+East,Office Supplies,2024,Q1,472356.34
+East,Office Supplies,2024,Q2,734807.8
+East,Office Supplies,2024,Q3,598198.66
+East,Office Supplies,2024,Q4,543387.6
+West,Technology,2023,Q1,587648.73
+West,Technology,2023,Q2,577574.67
+West,Technology,2023,Q3,528872.87
+West,Technology,2023,Q4,593578.79
+West,Technology,2024,Q1,309417.67
+West,Technology,2024,Q2,239015.99
+West,Technology,2024,Q3,384373.69
+West,Technology,2024,Q4,613731.58
+West,Furniture,2023,Q1,464458.39
+West,Furniture,2023,Q2,673541.45
+West,Furniture,2023,Q3,736529.54
+West,Furniture,2023,Q4,399106.28
+West,Furniture,2024,Q1,242996.78
+West,Furniture,2024,Q2,613324.39
+West,Furniture,2024,Q3,289738.64
+West,Furniture,2024,Q4,456487.07
+West,Office Supplies,2023,Q1,766687.4
+West,Office Supplies,2023,Q2,608776.88
+West,Office Supplies,2023,Q3,735635.81
+West,Office Supplies,2023,Q4,637607.1
+West,Office Supplies,2024,Q1,466401.36
+West,Office Supplies,2024,Q2,499703.73
+West,Office Supplies,2024,Q3,894361.87
+West,Office Supplies,2024,Q4,488350.72
